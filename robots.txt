@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://felixkiss.github.io/sitemap.xml 
+Sitemap: http://felixkiss.com/sitemap.xml 
